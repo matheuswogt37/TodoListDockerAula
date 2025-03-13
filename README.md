@@ -28,7 +28,7 @@ docker compose up -d --build
 
 As flags do comando fazer o seguinte: 
 
--   -d: _detach_ faz com que os containers sejam executados de forma independente ao terminal que os iniciou \
+-   -d: _detach_ faz com que os containers sejam executados de forma independente ao terminal que os iniciou 
 -   --build: indica que a imagem vai ser construida antes de iniciar os containers
 
 ### Como visualizar
